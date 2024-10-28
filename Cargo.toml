@@ -1,0 +1,13 @@
+[package]
+name = "ai_signal_tester"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.1"
+currency = "0.4.0"
+linfa = "0.7.0"
+linfa-logistic = "0.7.0"
+ndarray = "0.15.4"
+inquire = "0.7.5"
+colorize = "0.1.0"
